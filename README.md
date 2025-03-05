@@ -1,7 +1,16 @@
 # primero
 Este es mi primera repo que locura neno fuaaaa
 
-# TABLA PEPINILLOS LMAO  
+#Jorge
+
+David Guijarro 1 DAM proyecto 
+<ul>
+  <li>Jorge1</li>
+  <li>Jorge12</li>
+  <li><b>hola</b></li>
+</ul>
+
+# TABLA PEPINILLOS  
   Pepinillos letal
   <table>
     <tr>pepinillos
